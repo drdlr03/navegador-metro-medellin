@@ -1,0 +1,58 @@
+# linea;desde;hasta;minutos
+# los tiempos son aproximados (los tomamos de usar el metro)
+A;Niquía;Bello;3
+A;Bello;Madera;2
+A;Madera;Acevedo;2
+A;Acevedo;Tricentenario;2
+A;Tricentenario;Caribe;2
+A;Caribe;Universidad;2
+A;Universidad;Hospital;2
+A;Hospital;Prado;2
+A;Prado;Parque Berrío;2
+A;Parque Berrío;San Antonio;2
+A;San Antonio;Alpujarra;2
+A;Alpujarra;Exposiciones;2
+A;Exposiciones;Industriales;2
+A;Industriales;Poblado;2
+A;Poblado;Aguacatala;2
+A;Aguacatala;Ayurá;2
+A;Ayurá;Envigado;3
+A;Envigado;Itagüí;3
+A;Itagüí;Sabaneta;3
+A;Sabaneta;La Estrella;3
+B;San Antonio;Cisneros;2
+B;Cisneros;Suramericana;2
+B;Suramericana;Estadio;2
+B;Estadio;Floresta;2
+B;Floresta;Santa Lucía;2
+B;Santa Lucía;San Javier;2
+J;San Javier;Juan XXIII;3
+J;Juan XXIII;Vallejuelos;4
+J;Vallejuelos;La Aurora;4
+TA;San Antonio;San José;2
+TA;San José;Pabellón del Agua EPM;2
+TA;Pabellón del Agua EPM;Bicentenario;2
+TA;Bicentenario;Buenos Aires;3
+TA;Buenos Aires;Miraflores;3
+TA;Miraflores;Loyola;2
+TA;Loyola;Alejandro Echavarría;2
+TA;Alejandro Echavarría;Oriente;3
+H;Oriente;Las Torres;3
+H;Las Torres;Villa Sierra;3
+M;Miraflores;El Pinal;3
+M;El Pinal;Trece de Noviembre;3
+K;Acevedo;Andalucía;3
+K;Andalucía;Popular;3
+K;Popular;Santo Domingo Savio;4
+L;Santo Domingo Savio;Arví;15
+P;Acevedo;Sena;3
+P;Sena;Doce de Octubre;3
+P;Doce de Octubre;El Progreso;3
+1;Universidad de Medellín;Los Alpes;3
+1;Los Alpes;La Palma;3
+1;La Palma;Industriales;4
+1;Industriales;Plaza Mayor;4
+1;Plaza Mayor;Cisneros;3
+1;Cisneros;Minorista;3
+1;Minorista;Chagualo;3
+1;Chagualo;Hospital;3

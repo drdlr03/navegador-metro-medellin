@@ -1,0 +1,192 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1360" height="970" viewBox="0 0 1360 970" font-family="Arial, Helvetica, sans-serif">
+<rect width="100%" height="100%" fill="#FAFAF7"/>
+<text x="24" y="38" font-size="22" font-weight="bold" fill="#222">Metro de Medellín - Ruta más rápida</text>
+<text x="24" y="64" font-size="15" fill="#444">San Javier → Poblado  ·  25 min  ·  1 transbordo(s)  ·  10 paradas</text>
+<line x1="610" y1="110" x2="610" y2="150" stroke="#2E7D32" stroke-width="6" stroke-linecap="round" opacity="0.22"/>
+<line x1="610" y1="150" x2="610" y2="190" stroke="#2E7D32" stroke-width="6" stroke-linecap="round" opacity="0.22"/>
+<line x1="610" y1="190" x2="610" y2="230" stroke="#2E7D32" stroke-width="6" stroke-linecap="round" opacity="0.22"/>
+<line x1="610" y1="230" x2="610" y2="270" stroke="#2E7D32" stroke-width="6" stroke-linecap="round" opacity="0.22"/>
+<line x1="610" y1="270" x2="610" y2="310" stroke="#2E7D32" stroke-width="6" stroke-linecap="round" opacity="0.22"/>
+<line x1="610" y1="310" x2="610" y2="350" stroke="#2E7D32" stroke-width="6" stroke-linecap="round" opacity="0.22"/>
+<line x1="610" y1="350" x2="610" y2="390" stroke="#2E7D32" stroke-width="6" stroke-linecap="round" opacity="0.22"/>
+<line x1="610" y1="390" x2="610" y2="430" stroke="#2E7D32" stroke-width="6" stroke-linecap="round" opacity="0.22"/>
+<line x1="610" y1="430" x2="610" y2="470" stroke="#2E7D32" stroke-width="6" stroke-linecap="round" opacity="0.22"/>
+<line x1="610" y1="470" x2="610" y2="510" stroke="#2E7D32" stroke-width="6" stroke-linecap="round" opacity="0.22"/>
+<line x1="610" y1="670" x2="610" y2="710" stroke="#2E7D32" stroke-width="6" stroke-linecap="round" opacity="0.22"/>
+<line x1="610" y1="710" x2="610" y2="750" stroke="#2E7D32" stroke-width="6" stroke-linecap="round" opacity="0.22"/>
+<line x1="610" y1="750" x2="610" y2="790" stroke="#2E7D32" stroke-width="6" stroke-linecap="round" opacity="0.22"/>
+<line x1="610" y1="790" x2="610" y2="830" stroke="#2E7D32" stroke-width="6" stroke-linecap="round" opacity="0.22"/>
+<line x1="610" y1="830" x2="610" y2="870" stroke="#2E7D32" stroke-width="6" stroke-linecap="round" opacity="0.22"/>
+<line x1="610" y1="870" x2="610" y2="910" stroke="#2E7D32" stroke-width="6" stroke-linecap="round" opacity="0.22"/>
+<line x1="203" y1="510" x2="159" y2="470" stroke="#F9A825" stroke-width="6" stroke-linecap="round" opacity="0.22"/>
+<line x1="159" y1="470" x2="115" y2="430" stroke="#F9A825" stroke-width="6" stroke-linecap="round" opacity="0.22"/>
+<line x1="115" y1="430" x2="71" y2="390" stroke="#F9A825" stroke-width="6" stroke-linecap="round" opacity="0.22"/>
+<line x1="610" y1="510" x2="676" y2="542" stroke="#00897B" stroke-width="6" stroke-linecap="round" opacity="0.22"/>
+<line x1="676" y1="542" x2="742" y2="542" stroke="#00897B" stroke-width="6" stroke-linecap="round" opacity="0.22"/>
+<line x1="742" y1="542" x2="808" y2="542" stroke="#00897B" stroke-width="6" stroke-linecap="round" opacity="0.22"/>
+<line x1="808" y1="542" x2="874" y2="542" stroke="#00897B" stroke-width="6" stroke-linecap="round" opacity="0.22"/>
+<line x1="874" y1="542" x2="940" y2="510" stroke="#00897B" stroke-width="6" stroke-linecap="round" opacity="0.22"/>
+<line x1="940" y1="510" x2="995" y2="482" stroke="#00897B" stroke-width="6" stroke-linecap="round" opacity="0.22"/>
+<line x1="995" y1="482" x2="1028" y2="446" stroke="#00897B" stroke-width="6" stroke-linecap="round" opacity="0.22"/>
+<line x1="1028" y1="446" x2="1050" y2="406" stroke="#00897B" stroke-width="6" stroke-linecap="round" opacity="0.22"/>
+<line x1="1050" y1="406" x2="1105" y2="382" stroke="#8E24AA" stroke-width="6" stroke-linecap="round" opacity="0.22"/>
+<line x1="1105" y1="382" x2="1160" y2="358" stroke="#8E24AA" stroke-width="6" stroke-linecap="round" opacity="0.22"/>
+<line x1="940" y1="510" x2="984" y2="558" stroke="#D81B60" stroke-width="6" stroke-linecap="round" opacity="0.22"/>
+<line x1="984" y1="558" x2="1028" y2="606" stroke="#D81B60" stroke-width="6" stroke-linecap="round" opacity="0.22"/>
+<line x1="610" y1="230" x2="676" y2="194" stroke="#1565C0" stroke-width="6" stroke-linecap="round" opacity="0.22"/>
+<line x1="676" y1="194" x2="742" y2="174" stroke="#1565C0" stroke-width="6" stroke-linecap="round" opacity="0.22"/>
+<line x1="742" y1="174" x2="808" y2="154" stroke="#1565C0" stroke-width="6" stroke-linecap="round" opacity="0.22"/>
+<line x1="808" y1="154" x2="962" y2="126" stroke="#6D4C41" stroke-width="6" stroke-linecap="round" opacity="0.22"/>
+<line x1="610" y1="230" x2="533" y2="230" stroke="#C62828" stroke-width="6" stroke-linecap="round" opacity="0.22"/>
+<line x1="533" y1="230" x2="445" y2="230" stroke="#C62828" stroke-width="6" stroke-linecap="round" opacity="0.22"/>
+<line x1="445" y1="230" x2="357" y2="230" stroke="#C62828" stroke-width="6" stroke-linecap="round" opacity="0.22"/>
+<line x1="379" y1="694" x2="445" y2="678" stroke="#757575" stroke-width="6" stroke-linecap="round" opacity="0.22"/>
+<line x1="445" y1="678" x2="511" y2="662" stroke="#757575" stroke-width="6" stroke-linecap="round" opacity="0.22"/>
+<line x1="511" y1="662" x2="610" y2="630" stroke="#757575" stroke-width="6" stroke-linecap="round" opacity="0.22"/>
+<line x1="610" y1="630" x2="533" y2="582" stroke="#757575" stroke-width="6" stroke-linecap="round" opacity="0.22"/>
+<line x1="533" y1="582" x2="544" y2="510" stroke="#757575" stroke-width="6" stroke-linecap="round" opacity="0.22"/>
+<line x1="544" y1="510" x2="544" y2="458" stroke="#757575" stroke-width="6" stroke-linecap="round" opacity="0.22"/>
+<line x1="544" y1="458" x2="544" y2="414" stroke="#757575" stroke-width="6" stroke-linecap="round" opacity="0.22"/>
+<line x1="544" y1="414" x2="610" y2="390" stroke="#757575" stroke-width="6" stroke-linecap="round" opacity="0.22"/>
+<line x1="610" y1="510" x2="610" y2="550" stroke="#2E7D32" stroke-width="10" stroke-linecap="round" opacity="1"/>
+<line x1="610" y1="550" x2="610" y2="590" stroke="#2E7D32" stroke-width="10" stroke-linecap="round" opacity="1"/>
+<line x1="610" y1="590" x2="610" y2="630" stroke="#2E7D32" stroke-width="10" stroke-linecap="round" opacity="1"/>
+<line x1="610" y1="630" x2="610" y2="670" stroke="#2E7D32" stroke-width="10" stroke-linecap="round" opacity="1"/>
+<line x1="610" y1="510" x2="544" y2="510" stroke="#EF6C00" stroke-width="10" stroke-linecap="round" opacity="1"/>
+<line x1="544" y1="510" x2="467" y2="510" stroke="#EF6C00" stroke-width="10" stroke-linecap="round" opacity="1"/>
+<line x1="467" y1="510" x2="401" y2="510" stroke="#EF6C00" stroke-width="10" stroke-linecap="round" opacity="1"/>
+<line x1="401" y1="510" x2="335" y2="510" stroke="#EF6C00" stroke-width="10" stroke-linecap="round" opacity="1"/>
+<line x1="335" y1="510" x2="269" y2="510" stroke="#EF6C00" stroke-width="10" stroke-linecap="round" opacity="1"/>
+<line x1="269" y1="510" x2="203" y2="510" stroke="#EF6C00" stroke-width="10" stroke-linecap="round" opacity="1"/>
+<circle cx="610" cy="110" r="5.5" fill="#FFFFFF" stroke="#222" stroke-width="2" opacity="0.45"/>
+<text x="622.000000" y="114.000000" font-size="12" stroke="#FAFAF7" stroke-width="3" paint-order="stroke" fill="#333" opacity="0.5">Niquía</text>
+<circle cx="610" cy="150" r="5.5" fill="#FFFFFF" stroke="#222" stroke-width="2" opacity="0.45"/>
+<text x="622.000000" y="154.000000" font-size="12" stroke="#FAFAF7" stroke-width="3" paint-order="stroke" fill="#333" opacity="0.5">Bello</text>
+<circle cx="610" cy="190" r="5.5" fill="#FFFFFF" stroke="#222" stroke-width="2" opacity="0.45"/>
+<text x="598.000000" y="194.000000" text-anchor="end" font-size="12" stroke="#FAFAF7" stroke-width="3" paint-order="stroke" fill="#333" opacity="0.5">Madera</text>
+<circle cx="610" cy="230" r="8" fill="#FFFFFF" stroke="#222" stroke-width="3" opacity="0.45"/>
+<text x="622.000000" y="234.000000" font-size="12" stroke="#FAFAF7" stroke-width="3" paint-order="stroke" fill="#333" opacity="0.5">Acevedo</text>
+<circle cx="610" cy="270" r="5.5" fill="#FFFFFF" stroke="#222" stroke-width="2" opacity="0.45"/>
+<text x="622.000000" y="274.000000" font-size="12" stroke="#FAFAF7" stroke-width="3" paint-order="stroke" fill="#333" opacity="0.5">Tricentenario</text>
+<circle cx="610" cy="310" r="5.5" fill="#FFFFFF" stroke="#222" stroke-width="2" opacity="0.45"/>
+<text x="622.000000" y="314.000000" font-size="12" stroke="#FAFAF7" stroke-width="3" paint-order="stroke" fill="#333" opacity="0.5">Caribe</text>
+<circle cx="610" cy="350" r="5.5" fill="#FFFFFF" stroke="#222" stroke-width="2" opacity="0.45"/>
+<text x="622.000000" y="354.000000" font-size="12" stroke="#FAFAF7" stroke-width="3" paint-order="stroke" fill="#333" opacity="0.5">Universidad</text>
+<circle cx="610" cy="390" r="8" fill="#FFFFFF" stroke="#222" stroke-width="3" opacity="0.45"/>
+<text x="622.000000" y="394.000000" font-size="12" stroke="#FAFAF7" stroke-width="3" paint-order="stroke" fill="#333" opacity="0.5">Hospital</text>
+<circle cx="610" cy="430" r="5.5" fill="#FFFFFF" stroke="#222" stroke-width="2" opacity="0.45"/>
+<text x="622.000000" y="434.000000" font-size="12" stroke="#FAFAF7" stroke-width="3" paint-order="stroke" fill="#333" opacity="0.5">Prado</text>
+<circle cx="610" cy="470" r="5.5" fill="#FFFFFF" stroke="#222" stroke-width="2" opacity="0.45"/>
+<text x="622.000000" y="474.000000" font-size="12" stroke="#FAFAF7" stroke-width="3" paint-order="stroke" fill="#333" opacity="0.5">Parque Berrío</text>
+<circle cx="610" cy="510" r="8" fill="#FFFFFF" stroke="#222" stroke-width="3" opacity="1"/>
+<text x="622.000000" y="514.000000" font-size="12" stroke="#FAFAF7" stroke-width="3" paint-order="stroke" font-weight="bold" fill="#111">San Antonio</text>
+<circle cx="610" cy="550" r="5.5" fill="#FFFFFF" stroke="#222" stroke-width="2" opacity="1"/>
+<text x="598.000000" y="554.000000" text-anchor="end" font-size="12" stroke="#FAFAF7" stroke-width="3" paint-order="stroke" font-weight="bold" fill="#111">Alpujarra</text>
+<circle cx="610" cy="590" r="5.5" fill="#FFFFFF" stroke="#222" stroke-width="2" opacity="1"/>
+<text x="622.000000" y="594.000000" font-size="12" stroke="#FAFAF7" stroke-width="3" paint-order="stroke" font-weight="bold" fill="#111">Exposiciones</text>
+<circle cx="610" cy="630" r="8" fill="#FFFFFF" stroke="#222" stroke-width="3" opacity="1"/>
+<text x="622.000000" y="634.000000" font-size="12" stroke="#FAFAF7" stroke-width="3" paint-order="stroke" font-weight="bold" fill="#111">Industriales</text>
+<circle cx="610" cy="670" r="5.5" fill="#E53935" stroke="#222" stroke-width="2" opacity="1"/>
+<text x="622.000000" y="674.000000" font-size="12" stroke="#FAFAF7" stroke-width="3" paint-order="stroke" font-weight="bold" fill="#111">Poblado</text>
+<circle cx="610" cy="710" r="5.5" fill="#FFFFFF" stroke="#222" stroke-width="2" opacity="0.45"/>
+<text x="622.000000" y="714.000000" font-size="12" stroke="#FAFAF7" stroke-width="3" paint-order="stroke" fill="#333" opacity="0.5">Aguacatala</text>
+<circle cx="610" cy="750" r="5.5" fill="#FFFFFF" stroke="#222" stroke-width="2" opacity="0.45"/>
+<text x="622.000000" y="754.000000" font-size="12" stroke="#FAFAF7" stroke-width="3" paint-order="stroke" fill="#333" opacity="0.5">Ayurá</text>
+<circle cx="610" cy="790" r="5.5" fill="#FFFFFF" stroke="#222" stroke-width="2" opacity="0.45"/>
+<text x="622.000000" y="794.000000" font-size="12" stroke="#FAFAF7" stroke-width="3" paint-order="stroke" fill="#333" opacity="0.5">Envigado</text>
+<circle cx="610" cy="830" r="5.5" fill="#FFFFFF" stroke="#222" stroke-width="2" opacity="0.45"/>
+<text x="622.000000" y="834.000000" font-size="12" stroke="#FAFAF7" stroke-width="3" paint-order="stroke" fill="#333" opacity="0.5">Itagüí</text>
+<circle cx="610" cy="870" r="5.5" fill="#FFFFFF" stroke="#222" stroke-width="2" opacity="0.45"/>
+<text x="622.000000" y="874.000000" font-size="12" stroke="#FAFAF7" stroke-width="3" paint-order="stroke" fill="#333" opacity="0.5">Sabaneta</text>
+<circle cx="610" cy="910" r="5.5" fill="#FFFFFF" stroke="#222" stroke-width="2" opacity="0.45"/>
+<text x="622.000000" y="914.000000" font-size="12" stroke="#FAFAF7" stroke-width="3" paint-order="stroke" fill="#333" opacity="0.5">La Estrella</text>
+<circle cx="544" cy="510" r="8" fill="#FFFFFF" stroke="#222" stroke-width="3" opacity="1"/>
+<text transform="translate(550.000000,501.000000) rotate(-35)" font-size="12" stroke="#FAFAF7" stroke-width="3" paint-order="stroke" font-weight="bold" fill="#111">Cisneros</text>
+<circle cx="467" cy="510" r="5.5" fill="#FFFFFF" stroke="#222" stroke-width="2" opacity="1"/>
+<text transform="translate(473.000000,501.000000) rotate(-35)" font-size="12" stroke="#FAFAF7" stroke-width="3" paint-order="stroke" font-weight="bold" fill="#111">Suramericana</text>
+<circle cx="401" cy="510" r="5.5" fill="#FFFFFF" stroke="#222" stroke-width="2" opacity="1"/>
+<text transform="translate(407.000000,501.000000) rotate(-35)" font-size="12" stroke="#FAFAF7" stroke-width="3" paint-order="stroke" font-weight="bold" fill="#111">Estadio</text>
+<circle cx="335" cy="510" r="5.5" fill="#FFFFFF" stroke="#222" stroke-width="2" opacity="1"/>
+<text transform="translate(341.000000,501.000000) rotate(-35)" font-size="12" stroke="#FAFAF7" stroke-width="3" paint-order="stroke" font-weight="bold" fill="#111">Floresta</text>
+<circle cx="269" cy="510" r="5.5" fill="#FFFFFF" stroke="#222" stroke-width="2" opacity="1"/>
+<text transform="translate(275.000000,501.000000) rotate(-35)" font-size="12" stroke="#FAFAF7" stroke-width="3" paint-order="stroke" font-weight="bold" fill="#111">Santa Lucía</text>
+<circle cx="203" cy="510" r="8" fill="#43A047" stroke="#222" stroke-width="3" opacity="1"/>
+<text transform="translate(209.000000,501.000000) rotate(-35)" font-size="12" stroke="#FAFAF7" stroke-width="3" paint-order="stroke" font-weight="bold" fill="#111">San Javier</text>
+<circle cx="159" cy="470" r="5.5" fill="#FFFFFF" stroke="#222" stroke-width="2" opacity="0.45"/>
+<text x="171.000000" y="474.000000" font-size="12" stroke="#FAFAF7" stroke-width="3" paint-order="stroke" fill="#333" opacity="0.5">Juan XXIII</text>
+<circle cx="115" cy="430" r="5.5" fill="#FFFFFF" stroke="#222" stroke-width="2" opacity="0.45"/>
+<text x="127.000000" y="434.000000" font-size="12" stroke="#FAFAF7" stroke-width="3" paint-order="stroke" fill="#333" opacity="0.5">Vallejuelos</text>
+<circle cx="71" cy="390" r="5.5" fill="#FFFFFF" stroke="#222" stroke-width="2" opacity="0.45"/>
+<text x="83.000000" y="394.000000" font-size="12" stroke="#FAFAF7" stroke-width="3" paint-order="stroke" fill="#333" opacity="0.5">La Aurora</text>
+<circle cx="676" cy="542" r="5.5" fill="#FFFFFF" stroke="#222" stroke-width="2" opacity="0.45"/>
+<text transform="translate(684.000000,555.000000) rotate(35)" font-size="12" stroke="#FAFAF7" stroke-width="3" paint-order="stroke" fill="#333" opacity="0.5">San José</text>
+<circle cx="742" cy="542" r="5.5" fill="#FFFFFF" stroke="#222" stroke-width="2" opacity="0.45"/>
+<text transform="translate(750.000000,555.000000) rotate(35)" font-size="12" stroke="#FAFAF7" stroke-width="3" paint-order="stroke" fill="#333" opacity="0.5">Pabellón del Agua EPM</text>
+<circle cx="808" cy="542" r="5.5" fill="#FFFFFF" stroke="#222" stroke-width="2" opacity="0.45"/>
+<text transform="translate(816.000000,555.000000) rotate(35)" font-size="12" stroke="#FAFAF7" stroke-width="3" paint-order="stroke" fill="#333" opacity="0.5">Bicentenario</text>
+<circle cx="874" cy="542" r="5.5" fill="#FFFFFF" stroke="#222" stroke-width="2" opacity="0.45"/>
+<text transform="translate(882.000000,555.000000) rotate(35)" font-size="12" stroke="#FAFAF7" stroke-width="3" paint-order="stroke" fill="#333" opacity="0.5">Buenos Aires</text>
+<circle cx="940" cy="510" r="8" fill="#FFFFFF" stroke="#222" stroke-width="3" opacity="0.45"/>
+<text x="952.000000" y="514.000000" font-size="12" stroke="#FAFAF7" stroke-width="3" paint-order="stroke" fill="#333" opacity="0.5">Miraflores</text>
+<circle cx="995" cy="482" r="5.5" fill="#FFFFFF" stroke="#222" stroke-width="2" opacity="0.45"/>
+<text x="1007.000000" y="486.000000" font-size="12" stroke="#FAFAF7" stroke-width="3" paint-order="stroke" fill="#333" opacity="0.5">Loyola</text>
+<circle cx="1028" cy="446" r="5.5" fill="#FFFFFF" stroke="#222" stroke-width="2" opacity="0.45"/>
+<text x="1040.000000" y="450.000000" font-size="12" stroke="#FAFAF7" stroke-width="3" paint-order="stroke" fill="#333" opacity="0.5">Alejandro Echavarría</text>
+<circle cx="1050" cy="406" r="8" fill="#FFFFFF" stroke="#222" stroke-width="3" opacity="0.45"/>
+<text x="1038.000000" y="410.000000" text-anchor="end" font-size="12" stroke="#FAFAF7" stroke-width="3" paint-order="stroke" fill="#333" opacity="0.5">Oriente</text>
+<circle cx="1105" cy="382" r="5.5" fill="#FFFFFF" stroke="#222" stroke-width="2" opacity="0.45"/>
+<text transform="translate(1111.000000,373.000000) rotate(-35)" font-size="12" stroke="#FAFAF7" stroke-width="3" paint-order="stroke" fill="#333" opacity="0.5">Las Torres</text>
+<circle cx="1160" cy="358" r="5.5" fill="#FFFFFF" stroke="#222" stroke-width="2" opacity="0.45"/>
+<text transform="translate(1166.000000,349.000000) rotate(-35)" font-size="12" stroke="#FAFAF7" stroke-width="3" paint-order="stroke" fill="#333" opacity="0.5">Villa Sierra</text>
+<circle cx="984" cy="558" r="5.5" fill="#FFFFFF" stroke="#222" stroke-width="2" opacity="0.45"/>
+<text x="996.000000" y="562.000000" font-size="12" stroke="#FAFAF7" stroke-width="3" paint-order="stroke" fill="#333" opacity="0.5">El Pinal</text>
+<circle cx="1028" cy="606" r="5.5" fill="#FFFFFF" stroke="#222" stroke-width="2" opacity="0.45"/>
+<text x="1040.000000" y="610.000000" font-size="12" stroke="#FAFAF7" stroke-width="3" paint-order="stroke" fill="#333" opacity="0.5">Trece de Noviembre</text>
+<circle cx="676" cy="194" r="5.5" fill="#FFFFFF" stroke="#222" stroke-width="2" opacity="0.45"/>
+<text transform="translate(684.000000,207.000000) rotate(35)" font-size="12" stroke="#FAFAF7" stroke-width="3" paint-order="stroke" fill="#333" opacity="0.5">Andalucía</text>
+<circle cx="742" cy="174" r="5.5" fill="#FFFFFF" stroke="#222" stroke-width="2" opacity="0.45"/>
+<text transform="translate(750.000000,187.000000) rotate(35)" font-size="12" stroke="#FAFAF7" stroke-width="3" paint-order="stroke" fill="#333" opacity="0.5">Popular</text>
+<circle cx="808" cy="154" r="8" fill="#FFFFFF" stroke="#222" stroke-width="3" opacity="0.45"/>
+<text transform="translate(816.000000,167.000000) rotate(35)" font-size="12" stroke="#FAFAF7" stroke-width="3" paint-order="stroke" fill="#333" opacity="0.5">Santo Domingo Savio</text>
+<circle cx="962" cy="126" r="5.5" fill="#FFFFFF" stroke="#222" stroke-width="2" opacity="0.45"/>
+<text x="974.000000" y="130.000000" font-size="12" stroke="#FAFAF7" stroke-width="3" paint-order="stroke" fill="#333" opacity="0.5">Arví</text>
+<circle cx="533" cy="230" r="5.5" fill="#FFFFFF" stroke="#222" stroke-width="2" opacity="0.45"/>
+<text transform="translate(539.000000,221.000000) rotate(-35)" font-size="12" stroke="#FAFAF7" stroke-width="3" paint-order="stroke" fill="#333" opacity="0.5">Sena</text>
+<circle cx="445" cy="230" r="5.5" fill="#FFFFFF" stroke="#222" stroke-width="2" opacity="0.45"/>
+<text transform="translate(451.000000,221.000000) rotate(-35)" font-size="12" stroke="#FAFAF7" stroke-width="3" paint-order="stroke" fill="#333" opacity="0.5">Doce de Octubre</text>
+<circle cx="357" cy="230" r="5.5" fill="#FFFFFF" stroke="#222" stroke-width="2" opacity="0.45"/>
+<text transform="translate(363.000000,221.000000) rotate(-35)" font-size="12" stroke="#FAFAF7" stroke-width="3" paint-order="stroke" fill="#333" opacity="0.5">El Progreso</text>
+<circle cx="379" cy="694" r="5.5" fill="#FFFFFF" stroke="#222" stroke-width="2" opacity="0.45"/>
+<text transform="translate(387.000000,707.000000) rotate(35)" font-size="12" stroke="#FAFAF7" stroke-width="3" paint-order="stroke" fill="#333" opacity="0.5">Universidad de Medellín</text>
+<circle cx="445" cy="678" r="5.5" fill="#FFFFFF" stroke="#222" stroke-width="2" opacity="0.45"/>
+<text transform="translate(453.000000,691.000000) rotate(35)" font-size="12" stroke="#FAFAF7" stroke-width="3" paint-order="stroke" fill="#333" opacity="0.5">Los Alpes</text>
+<circle cx="511" cy="662" r="5.5" fill="#FFFFFF" stroke="#222" stroke-width="2" opacity="0.45"/>
+<text transform="translate(519.000000,675.000000) rotate(35)" font-size="12" stroke="#FAFAF7" stroke-width="3" paint-order="stroke" fill="#333" opacity="0.5">La Palma</text>
+<circle cx="533" cy="582" r="5.5" fill="#FFFFFF" stroke="#222" stroke-width="2" opacity="0.45"/>
+<text x="521.000000" y="586.000000" text-anchor="end" font-size="12" stroke="#FAFAF7" stroke-width="3" paint-order="stroke" fill="#333" opacity="0.5">Plaza Mayor</text>
+<circle cx="544" cy="458" r="5.5" fill="#FFFFFF" stroke="#222" stroke-width="2" opacity="0.45"/>
+<text x="556.000000" y="462.000000" font-size="12" stroke="#FAFAF7" stroke-width="3" paint-order="stroke" fill="#333" opacity="0.5">Minorista</text>
+<circle cx="544" cy="414" r="5.5" fill="#FFFFFF" stroke="#222" stroke-width="2" opacity="0.45"/>
+<text x="532.000000" y="418.000000" text-anchor="end" font-size="12" stroke="#FAFAF7" stroke-width="3" paint-order="stroke" fill="#333" opacity="0.5">Chagualo</text>
+<text x="24" y="698" font-size="13" font-weight="bold" fill="#222">Líneas</text>
+<line x1="24" y1="710" x2="54" y2="710" stroke="#2E7D32" stroke-width="6" stroke-linecap="round"/>
+<text x="64" y="714" font-size="12" fill="#333">Línea A (Metro)</text>
+<line x1="24" y1="732" x2="54" y2="732" stroke="#EF6C00" stroke-width="6" stroke-linecap="round"/>
+<text x="64" y="736" font-size="12" fill="#333">Línea B (Metro)</text>
+<line x1="24" y1="754" x2="54" y2="754" stroke="#00897B" stroke-width="6" stroke-linecap="round"/>
+<text x="64" y="758" font-size="12" fill="#333">Tranvía de Ayacucho (Tranvía)</text>
+<line x1="24" y1="776" x2="54" y2="776" stroke="#1565C0" stroke-width="6" stroke-linecap="round"/>
+<text x="64" y="780" font-size="12" fill="#333">Línea K (Metrocable)</text>
+<line x1="24" y1="798" x2="54" y2="798" stroke="#F9A825" stroke-width="6" stroke-linecap="round"/>
+<text x="64" y="802" font-size="12" fill="#333">Línea J (Metrocable)</text>
+<line x1="24" y1="820" x2="54" y2="820" stroke="#6D4C41" stroke-width="6" stroke-linecap="round"/>
+<text x="64" y="824" font-size="12" fill="#333">Línea L (Arví) (Metrocable)</text>
+<line x1="24" y1="842" x2="54" y2="842" stroke="#8E24AA" stroke-width="6" stroke-linecap="round"/>
+<text x="64" y="846" font-size="12" fill="#333">Línea H (Metrocable)</text>
+<line x1="24" y1="864" x2="54" y2="864" stroke="#D81B60" stroke-width="6" stroke-linecap="round"/>
+<text x="64" y="868" font-size="12" fill="#333">Línea M (Metrocable)</text>
+<line x1="24" y1="886" x2="54" y2="886" stroke="#C62828" stroke-width="6" stroke-linecap="round"/>
+<text x="64" y="890" font-size="12" fill="#333">Línea P (Metrocable)</text>
+<line x1="24" y1="908" x2="54" y2="908" stroke="#757575" stroke-width="6" stroke-linecap="round"/>
+<text x="64" y="912" font-size="12" fill="#333">Línea 1 Metroplús (Bus)</text>
+</svg>

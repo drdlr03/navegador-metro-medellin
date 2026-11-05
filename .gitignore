@@ -1,0 +1,11 @@
+# ejecutables y compilacion
+*.exe
+*.o
+cmake-build-*/
+build/
+
+# lo que genera el programa
+salidas/
+
+# CLion
+.idea/

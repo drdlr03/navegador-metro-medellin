@@ -1,0 +1,68 @@
+# linea;nombre;x;y;etiqueta
+# etiqueta: D = derecha, I = izquierda, A = diagonal arriba, B = diagonal abajo
+A;Niquía;10;0;D
+A;Bello;10;1;D
+A;Madera;10;2;I
+A;Acevedo;10;3;D
+A;Tricentenario;10;4;D
+A;Caribe;10;5;D
+A;Universidad;10;6;D
+A;Hospital;10;7;D
+A;Prado;10;8;D
+A;Parque Berrío;10;9;D
+A;San Antonio;10;10;D
+A;Alpujarra;10;11;I
+A;Exposiciones;10;12;D
+A;Industriales;10;13;D
+A;Poblado;10;14;D
+A;Aguacatala;10;15;D
+A;Ayurá;10;16;D
+A;Envigado;10;17;D
+A;Itagüí;10;18;D
+A;Sabaneta;10;19;D
+A;La Estrella;10;20;D
+B;San Antonio;10;10;D
+B;Cisneros;8.8;10;A
+B;Suramericana;7.4;10;A
+B;Estadio;6.2;10;A
+B;Floresta;5;10;A
+B;Santa Lucía;3.8;10;A
+B;San Javier;2.6;10;A
+J;San Javier;2.6;10;A
+J;Juan XXIII;1.8;9;D
+J;Vallejuelos;1;8;D
+J;La Aurora;0.2;7;D
+TA;San Antonio;10;10;D
+TA;San José;11.2;10.8;B
+TA;Pabellón del Agua EPM;12.4;10.8;B
+TA;Bicentenario;13.6;10.8;B
+TA;Buenos Aires;14.8;10.8;B
+TA;Miraflores;16;10;D
+TA;Loyola;17;9.3;D
+TA;Alejandro Echavarría;17.6;8.4;D
+TA;Oriente;18;7.4;I
+H;Oriente;18;7.4;I
+H;Las Torres;19;6.8;A
+H;Villa Sierra;20;6.2;A
+M;Miraflores;16;10;D
+M;El Pinal;16.8;11.2;D
+M;Trece de Noviembre;17.6;12.4;D
+K;Acevedo;10;3;D
+K;Andalucía;11.2;2.1;B
+K;Popular;12.4;1.6;B
+K;Santo Domingo Savio;13.6;1.1;B
+L;Santo Domingo Savio;13.6;1.1;B
+L;Arví;16.4;0.4;D
+P;Acevedo;10;3;D
+P;Sena;8.6;3;A
+P;Doce de Octubre;7;3;A
+P;El Progreso;5.4;3;A
+1;Universidad de Medellín;5.8;14.6;B
+1;Los Alpes;7;14.2;B
+1;La Palma;8.2;13.8;B
+1;Industriales;10;13;D
+1;Plaza Mayor;8.6;11.8;I
+1;Cisneros;8.8;10;A
+1;Minorista;8.8;8.7;D
+1;Chagualo;8.8;7.6;I
+1;Hospital;10;7;D

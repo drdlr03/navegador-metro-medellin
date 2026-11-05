@@ -1,0 +1,11 @@
+# codigo;nombre;tipo;color
+A;Línea A;Metro;#2E7D32
+B;Línea B;Metro;#EF6C00
+TA;Tranvía de Ayacucho;Tranvía;#00897B
+K;Línea K;Metrocable;#1565C0
+J;Línea J;Metrocable;#F9A825
+L;Línea L (Arví);Metrocable;#6D4C41
+H;Línea H;Metrocable;#8E24AA
+M;Línea M;Metrocable;#D81B60
+P;Línea P;Metrocable;#C62828
+1;Línea 1 Metroplús;Bus;#757575
